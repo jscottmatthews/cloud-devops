@@ -11,11 +11,9 @@ I also plan to consolidate together excellent materials I find on these topics t
 <h3>Reference</h3>
 <h3>Terraform for GCP</h3>
 <u>Blog posts & papers</u>
-
 <a href="https://threedots.tech/post/complete-setup-of-serverless-application/">A complete Terraform setup of a serverless application on Google Cloud Run and Firebase</a>
 
 <u>Videos</u>
-
 <a href="https://www.youtube.com/watch?v=2xaZQHhNO04&ab_channel=BenFoster">Getting Started with GCP and Terraform<a/>
 <a href=""></a>
 
