@@ -1,8 +1,6 @@
-//work in progress
+# cloud devops
 
-This page is designed to serve as a repository for personal projects for building out cloud architecture (coming soon). 
-
-I mainly intend it as a dumping ground for PoC cloud projects I hack together as a means of gaining hands-on experience with different technologies ... or really whatever I'm nerding out about that week.
+A collection of great resources I've found on DevOps, automation, infrastructure provisioning, cloud architecture, and more to serve as a reference for myself and others.
 
 Main areas of focus: GCP, serverless architecture, scalable cloud architecture, Terraform and other IaC tools, DevOps / automation, pipelines, AI/ML, etc.
 
