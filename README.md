@@ -1,5 +1,6 @@
 # cloud devops
 
+
 A collection of great resources I've found on DevOps, automation, infrastructure provisioning, cloud architecture, and more to serve as a reference for myself and others.
 
 Main areas of focus: GCP, serverless architecture, scalable cloud architecture, Terraform and other IaC tools, DevOps / automation, pipelines, AI/ML, etc.
